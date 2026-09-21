@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "065b58acfa89834637d71e98",
+  "owner": "rtparg",
+  "repo": "page-fcaf70572afd790faeeb30e6",
+  "title": "速云互联",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "fcaf70572afd790faeeb30e6",
+      "a": "速云互联",
+      "b": "机场官网线路发布页",
+      "entity": "速云互联",
+      "brand": "速云互联",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "508731b71671a7a2790335720d240dfaaab3edf1983b060fe2b827ebbe88bee6",
+      "content": {
+        "primary_entity": "速云互联",
+        "keyword1": "速云互联",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_DESCRIPTION": "，提供基础版、旗舰版和团队版三档订阅，分别对应每月100GB、300GB和1000GB流量，支持3台、5台和20台设备同时在线。旗舰版与团队版配备IPLC专线及高带宽节点，适合流媒体解锁和游戏加速。客户端覆盖主流平台，订阅配置按文档指引操作即可。",
+          "AI_HERO_SUBTITLE": "三档订阅适配多设备",
+          "AI_HERO_INTRO": "速云互联面向需要海外线路加速的用户，提供按月或按年计费的订阅套餐。基础版适合个人轻量使用，旗舰版兼顾流媒体与游戏，团队版满足多设备高流量需求。",
+          "AI_VISUAL_TITLE": "速云互联订阅选择",
+          "AI_HIGHLIGHT_1": "基础版每月100GB流量",
+          "AI_HIGHLIGHT_2": "旗舰版IPLC专线加速",
+          "AI_HIGHLIGHT_3": "团队版支持20台设备",
+          "AI_FEATURES_TITLE": "套餐与设备适配",
+          "AI_FEATURES_INTRO": "根据设备数量和流量需求选择订阅，再按客户端文档配置。",
+          "AI_FEATURE_TITLE_1": "按设备数选套餐",
+          "AI_FEATURE_TEXT_1": "基础版3台、旗舰版5台、团队版20台同时在线。",
+          "AI_FEATURE_TITLE_2": "按周期灵活付费",
+          "AI_FEATURE_TEXT_2": "月付从¥15起，按年付基础版¥150、旗舰版¥350、团队版¥850。",
+          "AI_FEATURE_TITLE_3": "流媒体与专线",
+          "AI_FEATURE_TEXT_3": "旗舰版含原生流媒体解锁与IPLC游戏加速优化。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "按设备类型选用对应客户端，并参照其订阅导入说明完成配置。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "三档套餐在流量、设备数和节点类型上有差异，按需对比选择。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_GUIDE_INTRO": "先确定设备数量与流量需求，再选择套餐并完成订阅配置。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_1": "对照三档套餐的流量、设备数和节点类型，选定适合的订阅。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认所用设备数量和系统，确认套餐是否满足同时在线需求。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "在对应客户端中依照文档导入订阅信息，完成线路配置。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版和旗舰版的主要区别是什么？",
+          "AI_FAQ_ANSWER_1": "基础版每月100GB流量、支持3台设备，节点为普通线路；旗舰版每月300GB流量、支持5台设备，含全节点原生流媒体解锁和IPLC专线游戏加速优化，并提供7x24优先工单支持。",
+          "AI_FAQ_QUESTION_2": "团队版适合什么场景？",
+          "AI_FAQ_ANSWER_2": "团队版每月1000GB流量，支持20台设备同时在线，提供VIP专属高带宽节点和企业定制路由，并配有专属客户经理服务，适合多人协作或对带宽要求较高的场景。",
+          "AI_FAQ_QUESTION_3": "如何导入订阅？",
+          "AI_FAQ_ANSWER_3": "根据所用设备类型选择对应客户端，参照该客户端的订阅导入说明，将订阅信息填入后保存并启用线路。不同客户端的操作路径可能略有差异。",
+          "AI_FAQ_QUESTION_4": "年付相比月付有什么变化？",
+          "AI_FAQ_ANSWER_4": "按年付基础版为¥150、旗舰版为¥350、团队版为¥850，相比月付总价更省。月付分别为¥15、¥35和¥85，可先按月体验再决定是否转年付。",
+          "AI_FAQ_QUESTION_5": "套餐支持同时多少台设备？",
+          "AI_FAQ_ANSWER_5": "基础版支持3台设备同时在线，旗舰版5台，团队版20台。选择套餐时请按实际常用设备数量判断，避免过多设备造成同时在线受限。",
+          "AI_CLOSING_TITLE": "选对套餐再配置",
+          "AI_CLOSING_TEXT": "根据设备数和流量需求选定套餐，再参照客户端文档完成订阅配置。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "yrzglwq.cn",
+    "host": "yrzglwq.cn"
+  },
+  "file_hashes": {
+    "index.html": "636413b241df37c50cac89309cfa5ef75f6e81f765969e6f5606238ad2391bdb",
+    "sitemap.xml": "159633dbcf16d5aea6444dc9e510f255ff379f1f87a8433b244ce0645a6bddbb",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "8f81fa87153c5c703a5c08eb2b3489b41377b00e07f306f5e60734ad7b1f0112",
+    "robots.txt": "0b3f2276cd34af8e66ab5f6583950f0fec4dc21c421dcd2db5d07a2bc40286cd",
+    "96fb0cedc9a4c44562a3f8a0e02eba01.txt": "b7606329b1c26632069e2b6963791e759efbb6b612079571d2dd1ef66a60907a"
+  },
+  "revision": "ce1ea80b77b675e85632b3fc51ec839a8c49c418d181ecb21f1a45b43b410490"
+}
